@@ -33,7 +33,7 @@ Wenn ein Schüler mehr als einen Tisch benötigt, einfach die gewünschten Tisch
 |      23      | Alexander Schönberger | 5AHIF  |                              |
 |      24      | Kathrin Reißner       | 5AHIF  | 10                           |
 |      25      | Alexander Brunner     | 5AHIF  | 10                           |
-|      26      |                       |        |                              |
+|      26      | Jakob Aschauer        | 5AHIF  | 10                           |
 |      27      |                       |        |                              |
 |      28      |                       |        |                              |
 |      29      |                       |        |                              |
